@@ -1,2 +1,2 @@
 # club-feedback
-Feedbacks from Software Engineering Club members
+Feedback from Software Engineering Club members
