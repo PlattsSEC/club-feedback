@@ -1,5 +1,5 @@
 # club-feedback
-Feedback from Software Engineering Club members
+Feedback from Software Engineering Club members. We will be able to instantly see your feedback and work towards making the club better.
 
 ### How to file an issue: ###
 1. Step 1: Click on the Issues tab next to the Code tab.
